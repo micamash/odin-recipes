@@ -1,0 +1,175 @@
+html {
+    background-image: radial-gradient(circle at center, #0a9396 0, #005f73, #001219 100%);
+    font-family: 'Raleway', sans-serif;
+    overflow: hidden;
+    height: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 100%;
+    overflow: auto;
+}
+
+.container {
+    background-color: #005f73;
+    border-radius: 2%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    max-width: 90%;
+    border-style: double;
+    border-color: #001219;
+}
+
+header {
+    font-family: 'Dancing Script', cursive;
+    font-size: large;
+    padding: 0;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+h1 {
+    margin: 10px;
+}
+
+ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-height: 75vh;
+    margin-top: 0;
+    padding: 0 15px 0 15px;
+}
+
+li {
+    list-style-type: none;
+}
+
+button {
+    height: 130px;
+    width: 130px;
+    border-radius: 50%;
+    border: none;
+    margin: 10px;
+    color: transparent;
+}
+
+#backArrow  {
+    height: 50px;
+    width: 50px;
+}
+
+#jello {
+    background-color:  #005f73;
+    background-image: url("/images/candy-corn-jello-shots.jpg");
+    background-size: 170%;
+    background-position: 100% 0%;
+}
+
+#popcorn {
+    background-color:  #005f73;
+    background-image: url("/images/slime-popcorn.jpg");
+    background-position: 20% 32%;
+    background-size: 150%;
+}
+
+#hats {
+    background-color:  #005f73;
+    background-image: url("/images/witches-hats.jpg");
+    background-position: 50% 58%;
+    background-size: 100%;
+}
+
+#casserole {
+    background-color:  #005f73;
+    background-image: url("/images/green-bean-casserole.png");
+    background-position: 44% 21%;
+    background-size: 100%;
+}
+
+#potatoes {
+    background-color:  #005f73;
+    background-image: url("/images/mashed-potatoes.png");
+    background-position: 0% 32%;
+    background-size: 100%;
+}
+
+#pie {
+    background-color:  #005f73;
+    background-image: url("/images/pumpkin-pie.png");
+    background-position: 55% 58%;
+    background-size: 100%;
+}
+
+#rum {
+    background-color:  #005f73;
+    background-image: url("/images/buttered-rum.png");
+    background-position: 44% 21%;
+    background-size: 100%;
+}
+
+#pudding {
+    background-color:  #005f73;
+    background-image: url("/images/yorkshire-pudding.png");
+    background-position: 0% 32%;
+    background-size: 100%;
+}
+
+#wreaths {
+    background-color:  #005f73;
+    background-image: url("/images/christmas-wreaths.png");
+    background-position: 58% 100%;
+    background-size: 215%;
+}
+
+button:hover {
+    color: palegoldenrod;
+    box-shadow: 0 .5em 3em -0.4em;
+    transform: translateY(-0.15em);
+    cursor: pointer;
+    text-align: center;
+    font-weight:bolder;
+    font-size: x-large;
+    font-family: 'Dancing Script', cursive;
+    background-blend-mode: multiply;
+}
+
+a:link {
+    color: #ca6702;
+    text-decoration: none;
+  }
+  
+a:visited {
+    color: #ca6702;
+}
+
+
+.attribution {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color:#005f73;
+    font-size: x-small;
+    color: black;
+}
+
+
+
+/* landscape */
+
+@media only screen and (orientation: landscape) {
+    ul {
+        flex-direction: row;
+    }
+  }
