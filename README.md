@@ -1,4 +1,4 @@
-# Holiday Recipe Website
+# Odin Recipes Website
 
 ## Table of contents
 
@@ -19,8 +19,8 @@
 
 ### Links
 
-- Solution URL: [GitHub Project Page](https://github.com/micamash/recipes-odin-project)
-- Live Site URL: [QR Code Component](micamash.github.io/recipes-odin-project/)
+- Solution URL: [GitHub Project Page](https://github.com/micamash/odin-recipes)
+- Live Site URL: [QR Code Component](micamash.github.io/odin-recipes/)
 
 ## My process
 
@@ -34,7 +34,7 @@
 
 ### What I learned
 
-Upon completing this project I have demonstrated my understanding of what I have learned via the HTML & CSS foundations courses on The Odin Project. I continued to build on this basic website as I progressed in the course using CSS grid, flexbox, and responsive web design.
+This project was started during the HTML course on The Odin Project. I continued to build on this website as I progressed in the program using CSS and responsive web design.
 
 ### Continued development
 
