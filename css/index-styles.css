@@ -67,19 +67,19 @@ button {
 
 #halloweenButton {
     background-color:  #005f73;
-    background-image: url("/images/smoke.avif");
+    background-image: url("../images/smoke.avif");
     background-position: 80% 98%;
 }
 
 #thanksgivingButton {
     background-color:  #005f73;
-    background-image: url("/images/thanksgiving-leaves.png");
+    background-image: url("../images/thanksgiving-leaves.png");
     background-position: 50% 20%;
 }
 
 #christmasButton {
     background-color:  #005f73;
-    background-image: url("/images/christmas-tree.png");
+    background-image: url("../images/christmas-tree.png");
     background-position: 54% 53%;
 }
 
