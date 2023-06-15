@@ -71,63 +71,63 @@ button {
 
 #jello {
     background-color:  #005f73;
-    background-image: url("/images/candy-corn-jello-shots.jpg");
+    background-image: url("../images/candy-corn-jello-shots.jpg");
     background-size: 170%;
     background-position: 100% 0%;
 }
 
 #popcorn {
     background-color:  #005f73;
-    background-image: url("/images/slime-popcorn.jpg");
+    background-image: url("../images/slime-popcorn.jpg");
     background-position: 20% 32%;
     background-size: 150%;
 }
 
 #hats {
     background-color:  #005f73;
-    background-image: url("/images/witches-hats.jpg");
+    background-image: url("../images/witches-hats.jpg");
     background-position: 50% 58%;
     background-size: 100%;
 }
 
 #casserole {
     background-color:  #005f73;
-    background-image: url("/images/green-bean-casserole.png");
+    background-image: url("../images/green-bean-casserole.png");
     background-position: 44% 21%;
     background-size: 100%;
 }
 
 #potatoes {
     background-color:  #005f73;
-    background-image: url("/images/mashed-potatoes.png");
+    background-image: url("../images/mashed-potatoes.png");
     background-position: 0% 32%;
     background-size: 100%;
 }
 
 #pie {
     background-color:  #005f73;
-    background-image: url("/images/pumpkin-pie.png");
+    background-image: url("../images/pumpkin-pie.png");
     background-position: 55% 58%;
     background-size: 100%;
 }
 
 #rum {
     background-color:  #005f73;
-    background-image: url("/images/buttered-rum.png");
+    background-image: url("../images/buttered-rum.png");
     background-position: 44% 21%;
     background-size: 100%;
 }
 
 #pudding {
     background-color:  #005f73;
-    background-image: url("/images/yorkshire-pudding.png");
+    background-image: url("../images/yorkshire-pudding.png");
     background-position: 0% 32%;
     background-size: 100%;
 }
 
 #wreaths {
     background-color:  #005f73;
-    background-image: url("/images/christmas-wreaths.png");
+    background-image: url("../images/christmas-wreaths.png");
     background-position: 58% 100%;
     background-size: 215%;
 }
