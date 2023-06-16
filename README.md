@@ -20,7 +20,7 @@
 ### Links
 
 - Solution URL: [GitHub Project Page](https://github.com/micamash/odin-recipes)
-- Live Site URL: [QR Code Component](micamash.github.io/odin-recipes/)
+- Live Site URL: [Recipes Project](micamash.github.io/odin-recipes/)
 
 ## My process
 
@@ -43,3 +43,4 @@ I plan to continue practicing responsive design as well as my HTML/CSS skills.
 ## Author
 
 - Website - [My GitHub](https://github.com/micamash)
+- [The Odin Project](https://www.theodinproject.com)
